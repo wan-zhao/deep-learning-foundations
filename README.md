@@ -31,7 +31,7 @@ A controlled comparative study on a 100×100 classification task evaluated six C
 
 ## Repository Structure
 
-- **`/notebook`**: Scanned handwritten notes and manual derivations.
+- **`/notebook`**: Partial scans of my physical notebook, containing handwritten notes and manual derivations.
 - **`/math`**: A curated collection of reference textbooks and mathematical papers I independently studied to build my theoretical intuition, including seminal texts like *The Modern Mathematics of Deep Learning*, *Geometric Deep Learning*, and *Mathematics for Machine Learning*.
 - **`/code`**: From-scratch and semi-from-scratch implementations organized by week and topic.
 - **`/homework`**: Weekly theoretical assignments and analytical reports covering 12 modules.
